@@ -96,7 +96,7 @@ const MySidebar = () => {
                   alt="profile-user"
                   width="155px"
                   height="115px"
-                  src={`/me_no_bg.png`}
+                  src={`/Person.svg`}
                   style={{ cursor: "pointer", borderRadius: "50%" }}
                 />
               </Box>
