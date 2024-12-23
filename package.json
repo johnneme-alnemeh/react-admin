@@ -36,7 +36,6 @@
     "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
   },
-  "homepage": "https://johnneme-alnemeh.github.io/react-admin",
   "eslintConfig": {
     "extends": [
       "react-app",
